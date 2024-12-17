@@ -3,7 +3,7 @@ title: Home
 hero_section:
   enable: true
   slides:
-    - title: Neurodata Without Borders
+    - title: Synaptic Research Institute.
       subtitle: Version 2.0 FINAL Now Available
       btn_text: Read More
       btn_link: "https://github.com/NeurodataWithoutBorders/nwb-schema"
