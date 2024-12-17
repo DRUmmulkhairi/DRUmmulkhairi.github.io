@@ -16,7 +16,7 @@ banner_section:
 For the latest, please go do http://nwb.org.
 
 
-For feedback, file an issue here: https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/issues"
+For feedback, file an issue here: https://github.com/https://github.com/DRUmmulkhairi/DRUmmulkhairi.github.io/issues"
 card_section:
   enable: true
   cards:
