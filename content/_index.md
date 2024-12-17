@@ -20,7 +20,7 @@ For feedback, file an issue here: https://github.com/NeurodataWithoutBorders/neu
 card_section:
   enable: true
   cards:
-    - image: /images/SYNAPTIC-RESEARCH-GROUP.jpg2 (1).jpg
+    - image: /images/SYNAPTIC-RESEARCH-GROUP.jpg2.jpg
       title: Users & Developers
       btn_text: Get Started
       btn_link: "http://nwb-overview.readthedocs.io/"
