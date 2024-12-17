@@ -6,7 +6,7 @@ hero_section:
     - title: Synaptic Research Institute.
       subtitle: Version 2.0 FINAL Now Available
       btn_text: Read More
-      btn_link:https://github.com/DRUmmulkhairi/DRUmmulkhairi.github.io/edit/main/content/_index.md
+      btn_link: https://github.com/DRUmmulkhairi/DRUmmulkhairi.github.io/edit/main/content/_index.md
 banner_section:
   enable: true
   title: "**This website is under construction.** Please excuse our appearance as we
